@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Nikhil Kumar
+title: SachAI
 email: 5artsenses@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey Guys ! Thanks for visiting my blog. Let's roll together to something intersting.
+  Seeking the TRUTH
 baseurl: "/my-site" # the subpath of your site, e.g. /blog
 url: "https://dma-roller.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nikhil__xb
@@ -29,9 +29,19 @@ github_username:  dma-roller
 instagram_username: nikhil__xb
 
 # Build settings
-theme: minima
+# theme: minima
+theme: hitchens-theme
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page/:num/"
+
+show_excerpts: true
+excerpt_length: 20
+
+hide_search: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
