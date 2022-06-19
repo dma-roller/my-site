@@ -11,7 +11,7 @@ Let's see what information we have about this guy.
 He goes by the name of Nikhil, though his friends call him Nick. This man can be found in his dorm room goofing around stats to predict a pattern or at times conversing with the graphs.
 
 
-!(statistics)[everyone-hates-stats-false-statisticians-love-stats.jpg]
+![statistics](assets\Images\everyone-hates-stats-false-statisticians-love-stats.jpg)
 
 > Society likes a much professional name, let's call him *Applied ML Developer*. 
 
@@ -21,7 +21,7 @@ Guy likes to talk about 11 kinds of humor, but seems to possess a 12th kind. He 
 
 **At times you will find him junking over war and history, otherwise fondling over the aroma of *Chai*.**
 
-!(Dark Humour)[Images/dark-humour-memes-6.jpg]
+![Dark Humour](assets\Images\dark-humour-memes-6.jpg)
 
 He will talk with you over any topic, you just have to offer him some tea. 
 

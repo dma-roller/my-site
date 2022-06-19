@@ -1,5 +1,8 @@
 - title: About
   url: /about.html
 
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
+# - title: Source
+  #url: https://github.com/patdryburgh/hitchens
+
+- title: Blogs
+  url: /blogs.html

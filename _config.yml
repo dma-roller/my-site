@@ -42,6 +42,8 @@ show_excerpts: true
 excerpt_length: 20
 
 hide_search: true
+feed_icon: /assets/images/mylogo.png
+hide_credits: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
